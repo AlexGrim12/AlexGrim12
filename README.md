@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-ig AlexGrim12
+Ig: AlexGrim12
 
 <!--
 **AlexGrim12/AlexGrim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
