@@ -8,7 +8,8 @@
 <a href="https://instagram.com/alex_grim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex_grim_" height="30" width="40" /></a>
   </center>
 <!---<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20097189/alex-grim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20097189/alex-grim" height="30" width="40" /></a>!--->
+<p>
 
 
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGrim12&layout=compact)](https://github.com/AlexGrim12/github-readme-stats)
