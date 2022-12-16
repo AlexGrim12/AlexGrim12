@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A computer engineering student at the Autonomous University of Mexico (UNAM)</h3>
+<h3 align="center">Computer engineering student at the Autonomous University of Mexico (UNAM)</h3>
 
 <!---<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20097189/alex-grim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20097189/alex-grim" height="30" width="40" /></a>!--->
 <p>
