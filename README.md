@@ -6,7 +6,8 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGrim12&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/AlexGrim12/github-readme-stats)
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGrim12&langs_count=20&theme=tokyonight&hide=swift,cmake,papyrus,Objective-C,Jupyter%20Notebook&layout=donut-vertical" />
+  
 <p>
   <p>
   
